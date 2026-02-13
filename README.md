@@ -112,7 +112,7 @@ Structured lists:
 
 \- 🤗 HuggingFace: https://huggingface.co/EnYa32
 
-\- 🧪 Kaggle: https://kaggle.com/YOUR\_KAGGLE\_NAME
+\- 🧪 Kaggle: https://www.kaggle.com/enesyama
 
 
 
