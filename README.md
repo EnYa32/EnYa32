@@ -198,9 +198,6 @@ Uygulamalı AI ve Machine Learning projeleri geliştiriyorum:
 
 ## 📬 Contact
 
-
-## 📬 Contact
-
 - 💼 LinkedIn: [https://www.linkedin.com/in/enes-yamac-12a5b9387/]
 - ✉️ Email: enesyamac3232@outlook.de
 
