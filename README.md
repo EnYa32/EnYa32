@@ -93,7 +93,7 @@ Apps | Streamlit \& HuggingFace Spaces |
 ## 🎓 Certification
 
 Data Science & AI Bootcamp
-📄 [![Bootcamp Certificate](Certificate_DataScienceEnesYamac.png)](Certificate_DataScienceEnesYamac.pdf)
+📄 [![Bootcamp Certificate](./certificate_bootcamp.png)](./Certificate_DataScienceEnesYamac.pdf)
 
 
 
