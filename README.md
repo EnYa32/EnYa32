@@ -1,10 +1,26 @@
-\# 🚀 AI \& Machine Learning Portfolio — Enes Yamac
+## 🚀 AI & Machine Learning Portfolio — Enes Yamac
 
+Applied AI & ML Developer — Computer Vision · NLP · Forecasting · Recommender Systems · ML Apps
 
+I build end-to-end applied AI/ML projects:
 
-\*\*Applied AI \& ML Builder\*\*  
+Data → Modeling → Evaluation → Deployment → App
 
-Computer Vision • NLP • Recommender Systems • Time Series • Streamlit Apps
+---
+
+🧠 Focus Areas
+
+👁️ Computer Vision
+
+💬 NLP & Text Classification
+
+🎯 Recommender Systems
+
+📈 Time Series Forecasting
+
+🤖 Applied Machine Learning
+
+🖥️ Streamlit & HuggingFace App Deployment
 
 
 
@@ -12,7 +28,7 @@ Computer Vision • NLP • Recommender Systems • Time Series • Streamlit Ap
 
 
 
-\## 👤 About Me
+## 👤 About Me
 
 
 
@@ -28,7 +44,7 @@ My portfolio contains 50+ applied ML/DL projects including deployed apps, Kaggle
 
 
 
-Main focus areas:
+## Main focus areas:
 
 
 
@@ -42,7 +58,7 @@ Main focus areas:
 
 \- 📈 Time Series Forecasting
 
-\- 🖥️ Streamlit App Deployment
+\- 🖥️ Streamlit & HuggingFace App Deployment
 
 
 
@@ -74,9 +90,15 @@ Apps | Streamlit \& HuggingFace Spaces |
 
 ---
 
+## 🎓 Certification
+
+Data Science & AI Bootcamp
+[![Bootcamp Certificate](Certificate_DataScienceEnesYamac.pdf)]
 
 
-\## 📦 Project Index
+
+
+## 📦 Project Index
 
 
 
@@ -104,7 +126,7 @@ Structured lists:
 
 
 
-\## 🌐 Profiles
+## 🌐 Profiles
 
 
 
@@ -120,7 +142,7 @@ Structured lists:
 
 
 
-\# 🇩🇪 Kurzprofil (Deutsch)
+# 🇩🇪 Kurzprofil (Deutsch)
 
 
 
@@ -148,7 +170,7 @@ Ich entwickle praxisnahe AI- und Machine-Learning-Projekte inklusive:
 
 
 
-\# 🇹🇷 Kısa Profil (Türkçe)
+# 🇹🇷 Kısa Profil (Türkçe)
 
 
 
@@ -160,7 +182,7 @@ Uygulamalı AI ve Machine Learning projeleri geliştiriyorum:
 
 \- Değerlendirme
 
-\- Deployment
+\- Tedarik/Sunum
 
 \- Streamlit uygulamaları
 
@@ -174,11 +196,12 @@ Uygulamalı AI ve Machine Learning projeleri geliştiriyorum:
 
 
 
-\## 📬 Contact
+## 📬 Contact
 
 
+## 📬 Contact
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/enes-yamac-12a5b9387/]
+- ✉️ Email: enesyamac3232@outlook.de
 
 Open for AI/ML collaboration and applied projects.
-
-
-
