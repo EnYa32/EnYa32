@@ -1,6 +1,6 @@
 ## 🚀 AI & Machine Learning Portfolio — Enes Yamac
 
-Applied AI & ML Developer — Computer Vision · NLP · Forecasting · Recommender Systems · ML Apps
+Data Science & AI Developer — Computer Vision · NLP · Forecasting · Recommender Systems · ML Apps
 
 I build end-to-end applied AI/ML projects:
 
